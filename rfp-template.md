@@ -1,6 +1,6 @@
-# Request For Proposal(RFP) - Template 
+# Draft Proposal - Template 
 
-__Title:__ The title is a few words, not a complete sentence
+__Title:__ [Draft Proposal] - The title is a few words, not a complete sentence
 
 __Background:__ Background is 2-3 sentence
 
