@@ -9,16 +9,20 @@ When a proposal draft is created in the Governance Proposal, the following can h
 6. The user has already a proposal draft on the Governance Proposals in the last 7 days
 7. Inappropriate content porn, obscene, or not related to the EPNS ecosystem
 
-1.The proposal draft is created without following the guidelines (for example without being clear what the proposal is for)
+1 - The proposal draft is created without following the guidelines (for example without being clear what the proposal is for)
+
 In this scenario, a PUSH Champion will comment on the proposal draft saying that it does not follow the guidelines and will block other people from commenting on the proposal draft. First close immediately the proposal then Archive after 7 days. Add a link to the guideline post.
 
 2 - The proposal draft does not get enough traction in 30 days
+
 If the proposal draft is created correctly but it didn’t get enough traction a PUSH Champion will close it and comment on the proposal draft saying it didn’t meet the criteria. When closing the proposal draft add a link to the post with the guidelines explaining the reason it was archived.
 
 3 - It is a duplicate proposal
+
 A PUSH Champion will comment on the proposal saying that it’s a copy of an existing proposal and will close the proposal. Add a link to the original proposal.
 
 4 - The proposal draft is valid and meets the necessary criteria
+
 If the proposal draft meets the criteria, a PUSH Champion will:
 
 - Create a proposal draft on the Governance Discussion
@@ -38,12 +42,15 @@ If all the conditions above are met, a PUSH Champion can move the proposal draft
 Fill a Google Form in order to avoid proposal drafts duplication. PUSH Champions will be responsible for filling this form after creating the proposal draft on governance discussion.
 
 5 - The proposal draft is for a feature that won’t be able to be changed in the governance in this first iteration
+
 In this case, a PUSH Champion will comment on the proposal draft saying that for this first governance iteration this won’t be allowed for voting and close the proposal draft. Add the current categories that are open.
 
 6 - The user has already a proposal draft on the Governance Proposal in the last 7 days
+
 A PUSH Champion will archive the proposal draft with a message saying that the user has already made a proposal draft in the last 7 days, close it, archive after 7 days and invite the user to remake the proposal draft after 7 days.
 
 7 - Inappropriate content porn, obscene, or not related to the EPNS ecosystem
+
 The proposal draft will be deleted and the user will be muted/banned.
 
 ## Proposal draft is moved from the Governance Proposals to Governance Discussion
@@ -67,9 +74,11 @@ Once a proposal draft is moved from Governance Proposals to Governance Discussio
 2. The proposal draft gets enough traction
 
 1 - The proposal draft doesn’t get enough traction
+
 If the proposal draft didn’t get enough traction within 30 days, a PUSH Champion will close the proposal draft and make a comment saying it didn’t meet the criterias. A PUSH Champion will edit the comment made on the proposal draft by one of the champions and will add the information that the proposal draft didn’t meet the criteria within 30 days.
 
 2 - The proposal draft gets enough traction
+
 In this case, a PUSH Delegatee will create a proposal on Snapshot.
 
 Once the proposal is moved to Snapshot, add a tag to the proposal draft to highlight that this proposal draft has already been moved to snapshot.
@@ -96,6 +105,7 @@ There are 2 possibilities:
 2. The proposal was created correctly
 
 1 - The proposal was wrongly created (for example, a proposal is created without a link to the forum proposal)
+
 In this case, a PUSH Champion will delete the snapshot proposal.
 
 A PUSH Champion will edit the first comment on the proposal draft to indicate to the community that the proposal was deleted since it didn’t follow the template. Explain the reason why the proposal was deleted.
