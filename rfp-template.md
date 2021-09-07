@@ -1,12 +1,18 @@
-
----
-Title: <The title is a few words, not a complete sentence>
-Background: <Background is 2-3 sentence>
-Motivation: <Motivation>
-For/Against: <Point out the benifits and drwabacks>
-Additional Info(Optional): <Include any additional info>
----
 # Request For Proposal(RFP) - Template 
+
+__Title:__ The title is a few words, not a complete sentence
+
+__Background:__ Background is 2-3 sentence
+
+__Motivation:__ Motivation behind the proposal
+
+__For/Against:__ Point out the benifits and drawbacks
+  
+__Additional Info(Optional):__ Include any additional info
+  
+---
+  
+# Template Description
 
 ## Title: 
 
