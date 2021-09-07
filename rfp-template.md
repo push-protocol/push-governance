@@ -1,17 +1,16 @@
-# Request For Proposal(RFP) - Template 
 
 ---
-Title: [Draft Proposal] - <The title is a few words, not a complete sentence>
+Title: <The title is a few words, not a complete sentence>
 Background: <Background is 2-3 sentence>
 Motivation: <Motivation>
 For/Against: <Point out the benifits and drwabacks>
 Additional Info(Optional): <Include any additional info>
-
 ---
+# Request For Proposal(RFP) - Template 
 
 ## Title: 
 
-Post each proposal with a clear title around its objective. This will look as follows: [Proposal] - XXXXXX
+Post each proposal with a clear title around its objective. This will look as follows: [Draft Proposal] - XXXXXX
 
 ## Background: 
 
