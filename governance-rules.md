@@ -124,16 +124,3 @@ PUSH  Champions: A key part of our decentralization is making sure the community
 - Team Champions: EPNS team members who are dedicated to guide and assist the community to implement a fair governance procedure.
 - Elected Champions: Elected community members who are trusted with the duty to assist the community to carry out a smooth governance process during each stage of a proposal.
 
-## Template
-
-Governance Proposals, Governance Discussion and Snapshot template:
-
-**Link to previous proposal draft** (if applicable)
-
-**Title** - Post each proposal with a clear title around its objective. This will look as follows: [Proposal] - XXXXXX
-
-**Background** - 2-3 sentences on what the proposal is and what changes are being suggested without going into deep detail.
-
-**Motivation** - Describe the motivation behind the proposal, the problem(s) it solves, and the value it adds. This is your chance to show why this proposal is necessary, and how the changes would benefit EPNS if implemented.
-
-**For/Against** - Point out core benefits and/or drawbacks of the proposal implementation and how it will affect the system.
