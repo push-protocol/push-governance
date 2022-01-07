@@ -1,5 +1,7 @@
 # Draft Proposal - Template 
 
+## Use this template as referance to prepare your draft proposal.
+
 __Title:__ [Draft Proposal] - The title is a few words, not a complete sentence
 
 __Link to previous proposal draft(if applicable):__ Provide the governance forum url of the previous proposal draft
