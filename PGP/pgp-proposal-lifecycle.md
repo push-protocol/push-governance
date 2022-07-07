@@ -4,11 +4,11 @@
 
 This is the very start of the PGP proposal journey. For any grant proposal to be accepted and executed, the proposer needs to submit their grant proposal under the Push Grants Program (PGP) section with the rules mentioned below.
 
->Note: This is a Discourse-hosted forum for governance-related discussion. Community members must register for an account before participating. Proposals on the forum must be submitted following a template.
+>Note: This is a Discourse-hosted forum for governance & grants related discussion. Community members must register for an account before participating. Proposals on the forum must be submitted following a template.
 
 ### How to submit a Grant Proposal
 
-Users needs to follow this template and post a new proposal draft under Push Grants Program (PGP) section.
+Users needs to follow [this template](https://github.com/ethereum-push-notification-service/governance/blob/main/draft-proposal-template.md) and post a new proposal draft under Push Grants Program (PGP) section.
 Champions then check the submitted draft proposal to ensure it follows the PGP rules, some proposals will be asked resubmission based on champions discretion during enforcement of the rules.
 Draft proposals may then be promoted to Poll Phase provided they meet the promotion criteria mentioned below.
 
@@ -51,7 +51,7 @@ Votes on Snapshot are weighted by the number of $PUSH delegated to the address u
 
 The rules for submission of a grant proposal on snapshot are as follows:
 
-- Grant proposals needs to be submitted to Snapshot.
+- Grant proposals need to be submitted to Snapshot.
 - PUSH Champions will be moderating the proposals on Snapshot by the rules mentioned here.
 - Only a Push Delegatee (users with 75k PUSH votes delegated) can submit proposals on the Snapshot.
 - All proposals on Snapshot must be given at least 7 days for the community to vote on the proposal.
