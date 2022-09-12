@@ -61,9 +61,9 @@ The draft proposal that passes the promotion criteria of Discussion phase are te
 - All proposals on Snapshot must be given at least 7 days for the community to vote on the proposal.
 
 ### Promotion Criteria
-- The proposal needs to meet the Quorum for it to be considered valid. Quorum is defined as 4% of the circulating supply of $PUSH voting in the affirmative.
+- The proposal needs to meet the Quorum for it to be considered valid. Quorum is defined as 1% of the circulating supply of $PUSH voting in the affirmative.
 - If the Quorum is not achieved in 7 days for a proposal, then the proposal is considered as defeated.
 
 ## What is Quorum
 
-For a vote to pass on Snapshot, it must achieve a quorum of 4% of the circulating supply of $PUSH voting in the affirmative. The purpose of the quorum is to ensure that, the proposals that are approved have adequate voter participation. This means that if a proposal that had a majority of votes affirmative but didn't achieve the necessary quorum, it won't be approved.
+For a vote to pass on Snapshot, it must achieve a quorum of 1% of the circulating supply of $PUSH voting in the affirmative. The purpose of the quorum is to ensure that, the proposals that are approved have adequate voter participation. This means that if a proposal that had a majority of votes affirmative but didn't achieve the necessary quorum, it won't be approved.

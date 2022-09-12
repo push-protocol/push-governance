@@ -112,7 +112,7 @@ A PUSH Champion will edit the first comment on the proposal draft to indicate to
 
 ### 2 - The proposal was created correctly
 
-A proposal will be approved if it achieves 4% of the circulating supply of $PUSH voting in the affirmative. If approved or reproved, a PUSH Champion will go back to the Governance Discussion post and comment saying the votes result.
+A proposal will be approved if it achieves 1% of the circulating supply of $PUSH voting in the affirmative. If approved or reproved, a PUSH Champion will go back to the Governance Discussion post and comment saying the votes result.
 
 Once the proposal is approved, the team will give high priority to the new feature voted.
 
