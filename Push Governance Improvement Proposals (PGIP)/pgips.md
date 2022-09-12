@@ -1,4 +1,5 @@
-# Push Improvement Proposals (PIP)
+# Push Governance Improvement Proposals (PGIPs)
+(previously Push Improvement Proposal-PIP)
 
 Sl No  | Push Improvement Proposal(PIP)   | Forum Proposal  | Forum Discussion     |    Snapshot Proposal      |    More Info         |
 ------ | ------| --------------- | -------------------- | ------------------------|----------------------|
